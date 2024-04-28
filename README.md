@@ -13,9 +13,6 @@ Pandas
 NumPy
 Matplotlib
 Jupyter Notebook (optional)
-# Installation
-1. Clone the repository:
-2.Install the required dependencies:
 
 # Usage
 Run the Jupyter notebook project_notebook (2).ipynb to see the step-by-step implementation of the prediction model using AutoGluon.
