@@ -39,8 +39,8 @@ The model's performance improved by approximately 1.802 units after trying diffe
 ![model_test_score.png](download-2.png)
 
 ## Summary
-# Initial Autogluon Model Testing: Started by training a baseline model using Autogluon without much optimization, to establish a starting point for model performance.
-# Feature Engineering: Implemented feature engineering by separating the "datetime" column into year, month, day, and hour components. This enrichment of the dataset led to improved model performance.
-# Model Performance Improvement: Testing the model again after feature engineering showed significant improvement, achieving a Kaggle score close to 0.614, surpassing the performance of the initial baseline model.
-# Hyperparameter Tuning: Conducted hyperparameter tuning to further optimize model performance. Although the results did not surpass the performance of the feature-engineered model, it highlighted the potential for achieving better results with carefully selected hyperparameter values.
-# Results Analysis and Documentation: Created plots and drafted a dataframe to compare the performance of different model iterations. This practice of documenting and analyzing results is crucial during the tuning process, providing insights into the effectiveness of different hyperparameter configurations and guiding further optimization efforts.
+### Initial Autogluon Model Testing: Started by training a baseline model using Autogluon without much optimization, to establish a starting point for model performance.
+### Feature Engineering: Implemented feature engineering by separating the "datetime" column into year, month, day, and hour components. This enrichment of the dataset led to improved model performance.
+### Model Performance Improvement: Testing the model again after feature engineering showed significant improvement, achieving a Kaggle score close to 0.614, surpassing the performance of the initial baseline model.
+### Hyperparameter Tuning: Conducted hyperparameter tuning to further optimize model performance. Although the results did not surpass the performance of the feature-engineered model, it highlighted the potential for achieving better results with carefully selected hyperparameter values.
+### Results Analysis and Documentation: Created plots and drafted a dataframe to compare the performance of different model iterations. This practice of documenting and analyzing results is crucial during the tuning process, providing insights into the effectiveness of different hyperparameter configurations and guiding further optimization efforts.
