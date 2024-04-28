@@ -18,8 +18,8 @@ Jupyter Notebook (optional)
 2.Install the required dependencies:
 
 # Usage
-Run the Jupyter notebook Bike_Sharing_Demand_Prediction.ipynb to see the step-by-step implementation of the prediction model using AutoGluon.
+Run the Jupyter notebook project_notebook (2).ipynb to see the step-by-step implementation of the prediction model using AutoGluon.
 
 # Results
-The prediction model achieves an accuracy of X% on the test dataset. Detailed evaluation metrics and visualizations can be found in the notebook or script output.
+The prediction model achieves a score of 0.85704 on the test dataset. Detailed evaluation metrics and visualizations can be found in the notebook or script output.
 
